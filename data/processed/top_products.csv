@@ -1,0 +1,101 @@
+product_id,purchase_count,product_name,aisle,department
+24852,14728,Banana,fresh fruits,produce
+13176,11657,Bag of Organic Bananas,fresh fruits,produce
+21137,8164,Organic Strawberries,fresh fruits,produce
+21903,7467,Organic Baby Spinach,packaged vegetables fruits,produce
+47209,6499,Organic Hass Avocado,fresh fruits,produce
+47766,5535,Organic Avocado,fresh fruits,produce
+47626,4790,Large Lemon,fresh fruits,produce
+16797,4423,Strawberries,fresh fruits,produce
+26209,4388,Limes,fresh fruits,produce
+27845,4353,Organic Whole Milk,milk,dairy eggs
+27966,4259,Organic Raspberries,packaged vegetables fruits,produce
+22935,3555,Organic Yellow Onion,fresh vegetables,produce
+24964,3400,Organic Garlic,fresh vegetables,produce
+45007,3183,Organic Zucchini,fresh vegetables,produce
+39275,3105,Organic Blueberries,packaged vegetables fruits,produce
+49683,3023,Cucumber Kirby,fresh vegetables,produce
+28204,2902,Organic Fuji Apple,fresh fruits,produce
+5876,2766,Organic Lemon,fresh fruits,produce
+8277,2650,Apple Honeycrisp Organic,fresh fruits,produce
+4920,2548,Seedless Red Grapes,packaged vegetables fruits,produce
+30391,2545,Organic Cucumber,fresh vegetables,produce
+45066,2494,Honeycrisp Apple,fresh fruits,produce
+40706,2494,Organic Grape Tomatoes,packaged vegetables fruits,produce
+49235,2442,Organic Half & Half,cream,dairy eggs
+42265,2413,Organic Baby Carrots,packaged vegetables fruits,produce
+44632,2401,Sparkling Water Grapefruit,water seltzer sparkling water,beverages
+19057,2348,Organic Large Extra Fancy Fuji Apple,fresh fruits,produce
+17794,2305,Carrots,fresh vegetables,produce
+4605,2241,Yellow Onions,fresh vegetables,produce
+27104,2238,Fresh Cauliflower,fresh vegetables,produce
+30489,2236,Original Hummus,fresh dips tapenades,deli
+21616,2204,Organic Baby Arugula,packaged vegetables fruits,produce
+31717,2185,Organic Cilantro,fresh herbs,produce
+37646,2175,Organic Gala Apples,fresh fruits,produce
+27086,2141,Half & Half,cream,dairy eggs
+44359,2137,Organic Small Bunch Celery,fresh vegetables,produce
+8518,2128,Organic Red Onion,fresh vegetables,produce
+46979,2073,Asparagus,fresh vegetables,produce
+28985,2012,Michigan Organic Kale,fresh vegetables,produce
+41950,1971,Organic Tomato Cluster,fresh vegetables,produce
+26604,1954,Organic Blackberries,fresh fruits,produce
+39877,1938,Organic Granny Smith Apple,fresh fruits,produce
+22035,1895,Organic Whole String Cheese,packaged cheese,dairy eggs
+34126,1887,Organic Italian Parsley Bunch,fresh herbs,produce
+5077,1857,100% Whole Wheat Bread,bread,bakery
+35951,1824,Organic Unsweetened Almond Milk,soy lactosefree,dairy eggs
+10749,1813,Organic Red Bell Pepper,fresh vegetables,produce
+43352,1788,Raspberries,packaged produce,produce
+19660,1768,Spring Water,water seltzer sparkling water,beverages
+43961,1726,Organic Peeled Whole Baby Carrots,packaged vegetables fruits,produce
+9076,1722,Blueberries,frozen produce,frozen
+21938,1698,Green Bell Pepper,fresh vegetables,produce
+34969,1685,Red Vine Tomato,fresh vegetables,produce
+48679,1682,Organic Garnet Sweet Potato (Yam),fresh vegetables,produce
+46667,1625,Organic Ginger Root,fresh vegetables,produce
+24184,1604,Red Peppers,fresh vegetables,produce
+24838,1586,Unsweetened Almondmilk,soy lactosefree,dairy eggs
+31506,1551,Extra Virgin Olive Oil,oils vinegars,pantry
+12341,1550,Hass Avocados,packaged produce,produce
+5450,1505,Small Hass Avocado,fresh fruits,produce
+39928,1500,Organic Kiwi,fresh fruits,produce
+25890,1491,Boneless Skinless Chicken Breasts,packaged poultry,meat seafood
+35221,1491,Lime Sparkling Water,water seltzer sparkling water,beverages
+33731,1466,Grated Parmesan,packaged cheese,dairy eggs
+5785,1440,Organic Reduced Fat 2% Milk,milk,dairy eggs
+22825,1413,Organic D'Anjou Pears,fresh fruits,produce
+28842,1367,Bunched Cilantro,fresh herbs,produce
+27344,1334,Uncured Genoa Salami,lunch meat,deli
+27521,1320,Organic Lacinato (Dinosaur) Kale,fresh vegetables,produce
+20114,1312,Jalapeno Peppers,fresh vegetables,produce
+44142,1301,Red Onion,fresh vegetables,produce
+8424,1284,Broccoli Crown,fresh vegetables,produce
+11520,1275,Large Alfresco Eggs,eggs,dairy eggs
+33198,1270,Sparkling Natural Mineral Water,water seltzer sparkling water,beverages
+28199,1269,"Clementines, Bag",packaged vegetables fruits,produce
+8174,1253,Organic Navel Orange,fresh fruits,produce
+9839,1237,Organic Broccoli,fresh vegetables,produce
+27156,1227,Organic Black Beans,canned meals beans,canned goods
+29487,1224,Roma Tomato,fresh vegetables,produce
+15290,1224,Orange Bell Pepper,fresh vegetables,produce
+18465,1215,Organic Grade A Free Range Large Brown Eggs,eggs,dairy eggs
+46906,1186,Grape White/Green Seedless,fresh fruits,produce
+43122,1184,Organic Bartlett Pear,fresh fruits,produce
+3957,1178,100% Raw Coconut Water,refrigerated,beverages
+4799,1173,Shredded Parmesan,packaged cheese,dairy eggs
+34358,1172,Garlic,fresh vegetables,produce
+4210,1169,Whole Milk,milk,dairy eggs
+23909,1163,2% Reduced Fat Milk,milk,dairy eggs
+16759,1147,Organic Carrot Bunch,fresh vegetables,produce
+9387,1124,Granny Smith Apples,fresh fruits,produce
+42736,1120,Unsalted Butter,butter,dairy eggs
+38689,1120,Organic Reduced Fat Milk,milk,dairy eggs
+47144,1105,Unsweetened Original Almond Breeze Almond Milk,soy lactosefree,dairy eggs
+196,1095,Soda,soft drinks,beverages
+41220,1083,Organic Romaine Lettuce,fresh vegetables,produce
+33000,1079,Pure Irish Butter,butter,dairy eggs
+41787,1065,Bartlett Pears,fresh fruits,produce
+7781,1062,Organic Sticks Low Moisture Part Skim Mozzarella String Cheese,packaged cheese,dairy eggs
+21709,1023,Sparkling Lemon Water,water seltzer sparkling water,beverages
+40604,1010,Feta Cheese Crumbles,packaged cheese,dairy eggs

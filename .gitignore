@@ -1,0 +1,23 @@
+
+# Virtual environment
+venv/
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Raw Instacart dataset
+data/raw/*.csv
+
+# Large intermediate transaction file
+data/processed/sampled_transactions.csv
+
+# Jupyter files
+.ipynb_checkpoints/
+
+# macOS files
+.DS_Store
+
+# Environment variables
+.env

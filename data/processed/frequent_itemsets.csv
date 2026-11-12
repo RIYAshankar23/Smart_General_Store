@@ -1,0 +1,372 @@
+support,itemsets,itemset_length,product_names
+0.14728,P_24852,1,Banana
+0.11657,P_13176,1,Bag of Organic Bananas
+0.08164,P_21137,1,Organic Strawberries
+0.07467,P_21903,1,Organic Baby Spinach
+0.06499,P_47209,1,Organic Hass Avocado
+0.05535,P_47766,1,Organic Avocado
+0.0479,P_47626,1,Large Lemon
+0.04423,P_16797,1,Strawberries
+0.04388,P_26209,1,Limes
+0.04353,P_27845,1,Organic Whole Milk
+0.04259,P_27966,1,Organic Raspberries
+0.03555,P_22935,1,Organic Yellow Onion
+0.034,P_24964,1,Organic Garlic
+0.03183,P_45007,1,Organic Zucchini
+0.03105,P_39275,1,Organic Blueberries
+0.03023,P_49683,1,Cucumber Kirby
+0.02902,P_28204,1,Organic Fuji Apple
+0.02766,P_5876,1,Organic Lemon
+0.0265,P_8277,1,Apple Honeycrisp Organic
+0.02548,P_4920,1,Seedless Red Grapes
+0.02545,P_30391,1,Organic Cucumber
+0.02494,P_45066,1,Honeycrisp Apple
+0.02494,P_40706,1,Organic Grape Tomatoes
+0.02442,P_49235,1,Organic Half & Half
+0.02413,P_42265,1,Organic Baby Carrots
+0.02401,P_44632,1,Sparkling Water Grapefruit
+0.02348,P_19057,1,Organic Large Extra Fancy Fuji Apple
+0.02305,P_17794,1,Carrots
+0.02241,P_4605,1,Yellow Onions
+0.02238,P_27104,1,Fresh Cauliflower
+0.02236,P_30489,1,Original Hummus
+0.02204,P_21616,1,Organic Baby Arugula
+0.02185,P_31717,1,Organic Cilantro
+0.02175,P_37646,1,Organic Gala Apples
+0.02141,P_27086,1,Half & Half
+0.02137,P_44359,1,Organic Small Bunch Celery
+0.02128,P_8518,1,Organic Red Onion
+0.02073,P_46979,1,Asparagus
+0.02012,P_28985,1,Michigan Organic Kale
+0.01971,P_41950,1,Organic Tomato Cluster
+0.01954,P_26604,1,Organic Blackberries
+0.01938,P_39877,1,Organic Granny Smith Apple
+0.01895,P_22035,1,Organic Whole String Cheese
+0.01887,P_34126,1,Organic Italian Parsley Bunch
+0.01864,"P_13176, P_21137",2,"Bag of Organic Bananas, Organic Strawberries"
+0.01863,"P_13176, P_47209",2,"Bag of Organic Bananas, Organic Hass Avocado"
+0.01857,P_5077,1,100% Whole Wheat Bread
+0.01824,P_35951,1,Organic Unsweetened Almond Milk
+0.01813,P_10749,1,Organic Red Bell Pepper
+0.01788,P_43352,1,Raspberries
+0.01768,P_19660,1,Spring Water
+0.01745,"P_21137, P_24852",2,"Banana, Organic Strawberries"
+0.01726,P_43961,1,Organic Peeled Whole Baby Carrots
+0.01722,P_9076,1,Blueberries
+0.01698,P_21938,1,Green Bell Pepper
+0.01685,P_34969,1,Red Vine Tomato
+0.01682,P_48679,1,Organic Garnet Sweet Potato (Yam)
+0.01659,"P_24852, P_47766",2,"Banana, Organic Avocado"
+0.01625,P_46667,1,Organic Ginger Root
+0.01604,P_24184,1,Red Peppers
+0.01586,P_24838,1,Unsweetened Almondmilk
+0.0157,"P_21903, P_24852",2,"Banana, Organic Baby Spinach"
+0.01551,P_31506,1,Extra Virgin Olive Oil
+0.0155,P_12341,1,Hass Avocados
+0.01543,"P_13176, P_21903",2,"Bag of Organic Bananas, Organic Baby Spinach"
+0.01505,P_5450,1,Small Hass Avocado
+0.015,P_39928,1,Organic Kiwi
+0.01491,P_35221,1,Lime Sparkling Water
+0.01491,P_25890,1,Boneless Skinless Chicken Breasts
+0.01466,P_33731,1,Grated Parmesan
+0.0144,P_5785,1,Organic Reduced Fat 2% Milk
+0.01413,P_22825,1,Organic D'Anjou Pears
+0.01367,P_28842,1,Bunched Cilantro
+0.01334,P_27344,1,Uncured Genoa Salami
+0.0132,P_27521,1,Organic Lacinato (Dinosaur) Kale
+0.01312,P_20114,1,Jalapeno Peppers
+0.01303,"P_16797, P_24852",2,"Banana, Strawberries"
+0.01303,"P_24852, P_47626",2,"Banana, Large Lemon"
+0.01301,P_44142,1,Red Onion
+0.01284,P_8424,1,Broccoli Crown
+0.01275,P_11520,1,Large Alfresco Eggs
+0.0127,P_33198,1,Sparkling Natural Mineral Water
+0.01269,P_28199,1,"Clementines, Bag"
+0.01253,P_8174,1,Organic Navel Orange
+0.01237,P_9839,1,Organic Broccoli
+0.01233,"P_13176, P_27966",2,"Bag of Organic Bananas, Organic Raspberries"
+0.01227,P_27156,1,Organic Black Beans
+0.01224,P_15290,1,Orange Bell Pepper
+0.01224,P_29487,1,Roma Tomato
+0.01215,P_18465,1,Organic Grade A Free Range Large Brown Eggs
+0.01205,"P_21137, P_47209",2,"Organic Hass Avocado, Organic Strawberries"
+0.01186,P_46906,1,Grape White/Green Seedless
+0.01184,P_43122,1,Organic Bartlett Pear
+0.01178,P_3957,1,100% Raw Coconut Water
+0.01173,P_4799,1,Shredded Parmesan
+0.01172,P_34358,1,Garlic
+0.0117,"P_21137, P_21903",2,"Organic Baby Spinach, Organic Strawberries"
+0.01169,P_4210,1,Whole Milk
+0.01163,P_23909,1,2% Reduced Fat Milk
+0.01147,P_16759,1,Organic Carrot Bunch
+0.01124,P_9387,1,Granny Smith Apples
+0.0112,P_38689,1,Organic Reduced Fat Milk
+0.0112,P_42736,1,Unsalted Butter
+0.01114,"P_24852, P_28204",2,"Banana, Organic Fuji Apple"
+0.01105,P_47144,1,Unsweetened Original Almond Breeze Almond Milk
+0.01095,P_196,1,Soda
+0.01083,P_41220,1,Organic Romaine Lettuce
+0.01079,P_33000,1,Pure Irish Butter
+0.01065,P_41787,1,Bartlett Pears
+0.01062,P_7781,1,Organic Sticks Low Moisture Part Skim Mozzarella String Cheese
+0.01049,"P_21137, P_27966",2,"Organic Raspberries, Organic Strawberries"
+0.01041,"P_21903, P_47209",2,"Organic Baby Spinach, Organic Hass Avocado"
+0.01023,P_21709,1,Sparkling Lemon Water
+0.01022,"P_24852, P_49683",2,"Banana, Cucumber Kirby"
+0.0101,P_40604,1,Feta Cheese Crumbles
+0.00996,"P_24852, P_27845",2,"Banana, Organic Whole Milk"
+0.00987,"P_21903, P_47766",2,"Organic Avocado, Organic Baby Spinach"
+0.00951,"P_24852, P_26209",2,"Banana, Limes"
+0.00928,"P_24852, P_47209",2,"Banana, Organic Hass Avocado"
+0.00898,"P_24852, P_45066",2,"Banana, Honeycrisp Apple"
+0.00834,"P_26209, P_47626",2,"Large Lemon, Limes"
+0.00826,"P_13176, P_27845",2,"Bag of Organic Bananas, Organic Whole Milk"
+0.00809,"P_47626, P_47766",2,"Large Lemon, Organic Avocado"
+0.00777,"P_27966, P_47209",2,"Organic Hass Avocado, Organic Raspberries"
+0.0077,"P_24852, P_4920",2,"Banana, Seedless Red Grapes"
+0.00768,"P_21137, P_47766",2,"Organic Avocado, Organic Strawberries"
+0.00766,"P_24852, P_27966",2,"Banana, Organic Raspberries"
+0.00752,"P_13176, P_19057",2,"Bag of Organic Bananas, Organic Large Extra Fancy Fuji Apple"
+0.0075,"P_21137, P_39275",2,"Organic Blueberries, Organic Strawberries"
+0.0074,"P_13176, P_47766",2,"Bag of Organic Bananas, Organic Avocado"
+0.00731,"P_13176, P_8277",2,"Apple Honeycrisp Organic, Bag of Organic Bananas"
+0.00729,"P_21137, P_27845",2,"Organic Strawberries, Organic Whole Milk"
+0.00715,"P_13176, P_22935",2,"Bag of Organic Bananas, Organic Yellow Onion"
+0.00714,"P_22935, P_24964",2,"Organic Garlic, Organic Yellow Onion"
+0.00703,"P_26209, P_47766",2,"Limes, Organic Avocado"
+0.00696,"P_13176, P_39275",2,"Bag of Organic Bananas, Organic Blueberries"
+0.00695,"P_13176, P_30391",2,"Bag of Organic Bananas, Organic Cucumber"
+0.00688,"P_21903, P_47626",2,"Large Lemon, Organic Baby Spinach"
+0.00678,"P_13176, P_45007",2,"Bag of Organic Bananas, Organic Zucchini"
+0.00656,"P_24852, P_4605",2,"Banana, Yellow Onions"
+0.00653,"P_13176, P_26209",2,"Bag of Organic Bananas, Limes"
+0.00642,"P_21903, P_24964",2,"Organic Baby Spinach, Organic Garlic"
+0.00637,"P_47209, P_5876",2,"Organic Hass Avocado, Organic Lemon"
+0.00634,"P_13176, P_5876",2,"Bag of Organic Bananas, Organic Lemon"
+0.00624,"P_21903, P_26209",2,"Limes, Organic Baby Spinach"
+0.00623,"P_13176, P_24964",2,"Bag of Organic Bananas, Organic Garlic"
+0.00618,"P_24852, P_45007",2,"Banana, Organic Zucchini"
+0.00607,"P_21903, P_45007",2,"Organic Baby Spinach, Organic Zucchini"
+0.00604,"P_26209, P_47209",2,"Limes, Organic Hass Avocado"
+0.006,"P_21903, P_22935",2,"Organic Baby Spinach, Organic Yellow Onion"
+0.00598,"P_13176, P_47626",2,"Bag of Organic Bananas, Large Lemon"
+0.00591,"P_22935, P_47209",2,"Organic Hass Avocado, Organic Yellow Onion"
+0.00589,"P_24852, P_39275",2,"Banana, Organic Blueberries"
+0.00585,"P_21137, P_26209",2,"Limes, Organic Strawberries"
+0.00578,"P_21903, P_27966",2,"Organic Baby Spinach, Organic Raspberries"
+0.00563,"P_24852, P_40706",2,"Banana, Organic Grape Tomatoes"
+0.00563,"P_24852, P_30489",2,"Banana, Original Hummus"
+0.00557,"P_24852, P_24964",2,"Banana, Organic Garlic"
+0.00557,"P_13176, P_37646",2,"Bag of Organic Bananas, Organic Gala Apples"
+0.00546,"P_24852, P_42265",2,"Banana, Organic Baby Carrots"
+0.00543,"P_30391, P_47209",2,"Organic Cucumber, Organic Hass Avocado"
+0.0054,"P_21137, P_22935",2,"Organic Strawberries, Organic Yellow Onion"
+0.00537,"P_26209, P_31717",2,"Limes, Organic Cilantro"
+0.00532,"P_24852, P_8277",2,"Apple Honeycrisp Organic, Banana"
+0.0053,"P_22935, P_24852",2,"Banana, Organic Yellow Onion"
+0.00529,"P_21903, P_27845",2,"Organic Baby Spinach, Organic Whole Milk"
+0.00528,"P_13176, P_16797",2,"Bag of Organic Bananas, Strawberries"
+0.00521,"P_24852, P_44632",2,"Banana, Sparkling Water Grapefruit"
+0.00515,"P_21137, P_30391",2,"Organic Cucumber, Organic Strawberries"
+0.00514,"P_24852, P_9076",2,"Banana, Blueberries"
+0.0051,"P_17794, P_24852",2,"Banana, Carrots"
+0.00508,"P_24852, P_34969",2,"Banana, Red Vine Tomato"
+0.00506,"P_24964, P_47209",2,"Organic Garlic, Organic Hass Avocado"
+0.00505,"P_24964, P_26209",2,"Limes, Organic Garlic"
+0.00498,"P_13176, P_42265",2,"Bag of Organic Bananas, Organic Baby Carrots"
+0.00498,"P_24964, P_47626",2,"Large Lemon, Organic Garlic"
+0.00498,"P_13176, P_40706",2,"Bag of Organic Bananas, Organic Grape Tomatoes"
+0.00496,"P_24852, P_37646",2,"Banana, Organic Gala Apples"
+0.00489,"P_47766, P_49683",2,"Cucumber Kirby, Organic Avocado"
+0.00487,"P_21137, P_47626",2,"Large Lemon, Organic Strawberries"
+0.00486,"P_21137, P_8277",2,"Apple Honeycrisp Organic, Organic Strawberries"
+0.00485,"P_47209, P_8277",2,"Apple Honeycrisp Organic, Organic Hass Avocado"
+0.00485,"P_45007, P_47209",2,"Organic Hass Avocado, Organic Zucchini"
+0.00484,"P_21903, P_49683",2,"Cucumber Kirby, Organic Baby Spinach"
+0.00482,"P_21903, P_40706",2,"Organic Baby Spinach, Organic Grape Tomatoes"
+0.00477,"P_21137, P_24964",2,"Organic Garlic, Organic Strawberries"
+0.00475,"P_24852, P_27086",2,"Banana, Half & Half"
+0.00474,"P_22035, P_24852",2,"Banana, Organic Whole String Cheese"
+0.00472,"P_24852, P_46979",2,"Asparagus, Banana"
+0.00471,"P_21137, P_5876",2,"Organic Lemon, Organic Strawberries"
+0.0047,"P_21903, P_30391",2,"Organic Baby Spinach, Organic Cucumber"
+0.00461,"P_13176, P_44359",2,"Bag of Organic Bananas, Organic Small Bunch Celery"
+0.00459,"P_24852, P_28985",2,"Banana, Michigan Organic Kale"
+0.00459,"P_24852, P_27104",2,"Banana, Fresh Cauliflower"
+0.00459,"P_24852, P_43961",2,"Banana, Organic Peeled Whole Baby Carrots"
+0.00458,"P_13176, P_39877",2,"Bag of Organic Bananas, Organic Granny Smith Apple"
+0.00457,"P_35221, P_44632",2,"Lime Sparkling Water, Sparkling Water Grapefruit"
+0.00457,"P_13176, P_22035",2,"Bag of Organic Bananas, Organic Whole String Cheese"
+0.00457,"P_47626, P_49683",2,"Cucumber Kirby, Large Lemon"
+0.00455,"P_24184, P_24852",2,"Banana, Red Peppers"
+0.00453,"P_27845, P_47209",2,"Organic Hass Avocado, Organic Whole Milk"
+0.00453,"P_21137, P_45007",2,"Organic Strawberries, Organic Zucchini"
+0.00452,"P_21137, P_40706",2,"Organic Grape Tomatoes, Organic Strawberries"
+0.00451,"P_24852, P_5450",2,"Banana, Small Hass Avocado"
+0.00444,"P_24852, P_49235",2,"Banana, Organic Half & Half"
+0.00442,"P_13176, P_21137, P_47209",3,"Bag of Organic Bananas, Organic Hass Avocado, Organic Strawberries"
+0.00442,"P_13176, P_41950",2,"Bag of Organic Bananas, Organic Tomato Cluster"
+0.0044,"P_24964, P_47766",2,"Organic Avocado, Organic Garlic"
+0.00439,"P_13176, P_35951",2,"Bag of Organic Bananas, Organic Unsweetened Almond Milk"
+0.00436,"P_19057, P_21137",2,"Organic Large Extra Fancy Fuji Apple, Organic Strawberries"
+0.00435,"P_13176, P_22825",2,"Bag of Organic Bananas, Organic D'Anjou Pears"
+0.00435,"P_13176, P_27104",2,"Bag of Organic Bananas, Fresh Cauliflower"
+0.00435,"P_13176, P_4920",2,"Bag of Organic Bananas, Seedless Red Grapes"
+0.00435,"P_24852, P_8424",2,"Banana, Broccoli Crown"
+0.00433,"P_27966, P_39275",2,"Organic Blueberries, Organic Raspberries"
+0.00432,"P_24852, P_5077",2,"100% Whole Wheat Bread, Banana"
+0.00431,"P_24852, P_25890",2,"Banana, Boneless Skinless Chicken Breasts"
+0.00429,"P_22935, P_26209",2,"Limes, Organic Yellow Onion"
+0.00427,"P_24852, P_26604",2,"Banana, Organic Blackberries"
+0.00427,"P_24852, P_41787",2,"Banana, Bartlett Pears"
+0.00427,"P_21903, P_5876",2,"Organic Baby Spinach, Organic Lemon"
+0.00426,"P_13176, P_49235",2,"Bag of Organic Bananas, Organic Half & Half"
+0.00425,"P_21137, P_22035",2,"Organic Strawberries, Organic Whole String Cheese"
+0.00423,"P_47209, P_47626",2,"Large Lemon, Organic Hass Avocado"
+0.00421,"P_39275, P_47209",2,"Organic Blueberries, Organic Hass Avocado"
+0.0042,"P_21616, P_24852",2,"Banana, Organic Baby Arugula"
+0.00418,"P_21137, P_37646",2,"Organic Gala Apples, Organic Strawberries"
+0.00417,"P_21903, P_39275",2,"Organic Baby Spinach, Organic Blueberries"
+0.00416,"P_21137, P_42265",2,"Organic Baby Carrots, Organic Strawberries"
+0.00415,"P_10749, P_13176",2,"Bag of Organic Bananas, Organic Red Bell Pepper"
+0.0041,"P_27845, P_47766",2,"Organic Avocado, Organic Whole Milk"
+0.00409,"P_24852, P_28199",2,"Banana, Clementines, Bag"
+0.00408,"P_21903, P_42265",2,"Organic Baby Carrots, Organic Baby Spinach"
+0.00407,"P_13176, P_31717",2,"Bag of Organic Bananas, Organic Cilantro"
+0.00406,"P_13176, P_48679",2,"Bag of Organic Bananas, Organic Garnet Sweet Potato (Yam)"
+0.00406,"P_40706, P_47766",2,"Organic Avocado, Organic Grape Tomatoes"
+0.00406,"P_21903, P_28985",2,"Michigan Organic Kale, Organic Baby Spinach"
+0.00406,"P_21137, P_4920",2,"Organic Strawberries, Seedless Red Grapes"
+0.00405,"P_13176, P_8174",2,"Bag of Organic Bananas, Organic Navel Orange"
+0.00404,"P_13176, P_30489",2,"Bag of Organic Bananas, Original Hummus"
+0.00403,"P_21137, P_26604",2,"Organic Blackberries, Organic Strawberries"
+0.004,"P_13176, P_39928",2,"Bag of Organic Bananas, Organic Kiwi"
+0.004,"P_41950, P_47209",2,"Organic Hass Avocado, Organic Tomato Cluster"
+0.00398,"P_21903, P_8518",2,"Organic Baby Spinach, Organic Red Onion"
+0.00398,"P_16797, P_21903",2,"Organic Baby Spinach, Strawberries"
+0.00396,"P_26209, P_5876",2,"Limes, Organic Lemon"
+0.00394,"P_21903, P_44359",2,"Organic Baby Spinach, Organic Small Bunch Celery"
+0.00393,"P_19057, P_47209",2,"Organic Hass Avocado, Organic Large Extra Fancy Fuji Apple"
+0.00392,"P_21903, P_27104",2,"Fresh Cauliflower, Organic Baby Spinach"
+0.00391,"P_26209, P_28842",2,"Bunched Cilantro, Limes"
+0.0039,"P_13176, P_8518",2,"Bag of Organic Bananas, Organic Red Onion"
+0.0039,"P_10749, P_21137",2,"Organic Red Bell Pepper, Organic Strawberries"
+0.00386,"P_24852, P_9387",2,"Banana, Granny Smith Apples"
+0.00385,"P_24852, P_8518",2,"Banana, Organic Red Onion"
+0.00384,"P_21137, P_39928",2,"Organic Kiwi, Organic Strawberries"
+0.00384,"P_13176, P_17794",2,"Bag of Organic Bananas, Carrots"
+0.00383,"P_21137, P_30489",2,"Organic Strawberries, Original Hummus"
+0.00383,"P_21903, P_8277",2,"Apple Honeycrisp Organic, Organic Baby Spinach"
+0.00382,"P_31717, P_47209",2,"Organic Cilantro, Organic Hass Avocado"
+0.00382,"P_16797, P_43352",2,"Raspberries, Strawberries"
+0.00381,"P_24852, P_39877",2,"Banana, Organic Granny Smith Apple"
+0.00379,"P_22935, P_45007",2,"Organic Yellow Onion, Organic Zucchini"
+0.00379,"P_24852, P_30391",2,"Banana, Organic Cucumber"
+0.00378,"P_19057, P_24852",2,"Banana, Organic Large Extra Fancy Fuji Apple"
+0.00378,"P_21137, P_49683",2,"Cucumber Kirby, Organic Strawberries"
+0.00378,"P_21903, P_48679",2,"Organic Baby Spinach, Organic Garnet Sweet Potato (Yam)"
+0.00377,"P_21616, P_21903",2,"Organic Baby Arugula, Organic Baby Spinach"
+0.00377,"P_16797, P_47766",2,"Organic Avocado, Strawberries"
+0.00372,"P_24852, P_44142",2,"Banana, Red Onion"
+0.00372,"P_21137, P_41950",2,"Organic Strawberries, Organic Tomato Cluster"
+0.0037,"P_16797, P_47626",2,"Large Lemon, Strawberries"
+0.00366,"P_24852, P_48679",2,"Banana, Organic Garnet Sweet Potato (Yam)"
+0.00365,"P_17794, P_21903",2,"Carrots, Organic Baby Spinach"
+0.00362,"P_13176, P_21616",2,"Bag of Organic Bananas, Organic Baby Arugula"
+0.00361,"P_22935, P_5876",2,"Organic Lemon, Organic Yellow Onion"
+0.0036,"P_13176, P_26604",2,"Bag of Organic Bananas, Organic Blackberries"
+0.0036,"P_44359, P_47209",2,"Organic Hass Avocado, Organic Small Bunch Celery"
+0.00359,"P_40706, P_47209",2,"Organic Grape Tomatoes, Organic Hass Avocado"
+0.00358,"P_47209, P_48679",2,"Organic Garnet Sweet Potato (Yam), Organic Hass Avocado"
+0.00358,"P_45066, P_47766",2,"Honeycrisp Apple, Organic Avocado"
+0.00357,"P_45007, P_47766",2,"Organic Avocado, Organic Zucchini"
+0.00352,"P_13176, P_21137, P_21903",3,"Bag of Organic Bananas, Organic Baby Spinach, Organic Strawberries"
+0.00351,"P_21903, P_46979",2,"Asparagus, Organic Baby Spinach"
+0.00351,"P_24852, P_44359",2,"Banana, Organic Small Bunch Celery"
+0.00349,"P_26209, P_49683",2,"Cucumber Kirby, Limes"
+0.00349,"P_13176, P_46667",2,"Bag of Organic Bananas, Organic Ginger Root"
+0.00349,"P_21903, P_24852, P_47766",3,"Banana, Organic Avocado, Organic Baby Spinach"
+0.00349,"P_10749, P_47209",2,"Organic Hass Avocado, Organic Red Bell Pepper"
+0.00348,"P_12341, P_13176",2,"Bag of Organic Bananas, Hass Avocados"
+0.00347,"P_45007, P_47626",2,"Large Lemon, Organic Zucchini"
+0.00347,"P_21903, P_31717",2,"Organic Baby Spinach, Organic Cilantro"
+0.00344,"P_24852, P_31717",2,"Banana, Organic Cilantro"
+0.00344,"P_13176, P_45066",2,"Bag of Organic Bananas, Honeycrisp Apple"
+0.00343,"P_21903, P_46667",2,"Organic Baby Spinach, Organic Ginger Root"
+0.00343,"P_22935, P_47766",2,"Organic Avocado, Organic Yellow Onion"
+0.00342,"P_24852, P_28842",2,"Banana, Bunched Cilantro"
+0.00342,"P_24964, P_34126",2,"Organic Garlic, Organic Italian Parsley Bunch"
+0.00342,"P_24852, P_39928",2,"Banana, Organic Kiwi"
+0.00342,"P_13176, P_21903, P_47209",3,"Bag of Organic Bananas, Organic Baby Spinach, Organic Hass Avocado"
+0.00342,"P_21137, P_45066",2,"Honeycrisp Apple, Organic Strawberries"
+0.00341,"P_13176, P_28204",2,"Bag of Organic Bananas, Organic Fuji Apple"
+0.00341,"P_22935, P_44359",2,"Organic Small Bunch Celery, Organic Yellow Onion"
+0.00341,"P_19057, P_21903",2,"Organic Baby Spinach, Organic Large Extra Fancy Fuji Apple"
+0.00341,"P_4605, P_47626",2,"Large Lemon, Yellow Onions"
+0.00341,"P_21137, P_44359",2,"Organic Small Bunch Celery, Organic Strawberries"
+0.00341,"P_37646, P_47209",2,"Organic Gala Apples, Organic Hass Avocado"
+0.0034,"P_21137, P_21616",2,"Organic Baby Arugula, Organic Strawberries"
+0.00339,"P_24852, P_41950",2,"Banana, Organic Tomato Cluster"
+0.00338,"P_17794, P_22935",2,"Carrots, Organic Yellow Onion"
+0.00337,"P_21903, P_30489",2,"Organic Baby Spinach, Original Hummus"
+0.00337,"P_47209, P_8518",2,"Organic Hass Avocado, Organic Red Onion"
+0.00337,"P_20114, P_26209",2,"Jalapeno Peppers, Limes"
+0.00336,"P_13176, P_28985",2,"Bag of Organic Bananas, Michigan Organic Kale"
+0.00336,"P_27966, P_8277",2,"Apple Honeycrisp Organic, Organic Raspberries"
+0.00335,"P_13176, P_43961",2,"Bag of Organic Bananas, Organic Peeled Whole Baby Carrots"
+0.00335,"P_22935, P_47626",2,"Large Lemon, Organic Yellow Onion"
+0.00335,"P_27845, P_47626",2,"Large Lemon, Organic Whole Milk"
+0.00334,"P_24964, P_5876",2,"Organic Garlic, Organic Lemon"
+0.00334,"P_13176, P_21137, P_27966",3,"Bag of Organic Bananas, Organic Raspberries, Organic Strawberries"
+0.00333,"P_24852, P_5876",2,"Banana, Organic Lemon"
+0.00333,"P_21903, P_41950",2,"Organic Baby Spinach, Organic Tomato Cluster"
+0.00332,"P_24852, P_29487",2,"Banana, Roma Tomato"
+0.00332,"P_21137, P_27104",2,"Fresh Cauliflower, Organic Strawberries"
+0.00331,"P_24964, P_45007",2,"Organic Garlic, Organic Zucchini"
+0.00331,"P_26604, P_27966",2,"Organic Blackberries, Organic Raspberries"
+0.00331,"P_24964, P_46667",2,"Organic Garlic, Organic Ginger Root"
+0.00331,"P_13176, P_27966, P_47209",3,"Bag of Organic Bananas, Organic Hass Avocado, Organic Raspberries"
+0.0033,"P_21903, P_35951",2,"Organic Baby Spinach, Organic Unsweetened Almond Milk"
+0.0033,"P_24852, P_47144",2,"Banana, Unsweetened Original Almond Breeze Almond Milk"
+0.00328,"P_24852, P_46906",2,"Banana, Grape White/Green Seedless"
+0.00328,"P_24838, P_24852",2,"Banana, Unsweetened Almondmilk"
+0.00328,"P_24964, P_8518",2,"Organic Garlic, Organic Red Onion"
+0.00327,"P_10749, P_21903",2,"Organic Baby Spinach, Organic Red Bell Pepper"
+0.00327,"P_17794, P_24964",2,"Carrots, Organic Garlic"
+0.00326,"P_13176, P_27086",2,"Bag of Organic Bananas, Half & Half"
+0.00326,"P_13176, P_24838",2,"Bag of Organic Bananas, Unsweetened Almondmilk"
+0.00325,"P_10749, P_24852",2,"Banana, Organic Red Bell Pepper"
+0.00325,"P_27966, P_5876",2,"Organic Lemon, Organic Raspberries"
+0.00324,"P_17794, P_21137",2,"Carrots, Organic Strawberries"
+0.00324,"P_13176, P_46979",2,"Asparagus, Bag of Organic Bananas"
+0.00323,"P_13176, P_5077",2,"100% Whole Wheat Bread, Bag of Organic Bananas"
+0.00323,"P_27104, P_47209",2,"Fresh Cauliflower, Organic Hass Avocado"
+0.00322,"P_24852, P_38689",2,"Banana, Organic Reduced Fat Milk"
+0.00322,"P_21616, P_47209",2,"Organic Baby Arugula, Organic Hass Avocado"
+0.00322,"P_21903, P_34126",2,"Organic Baby Spinach, Organic Italian Parsley Bunch"
+0.00321,"P_21903, P_45066",2,"Honeycrisp Apple, Organic Baby Spinach"
+0.00319,"P_27845, P_27966",2,"Organic Raspberries, Organic Whole Milk"
+0.00319,"P_13176, P_5785",2,"Bag of Organic Bananas, Organic Reduced Fat 2% Milk"
+0.00317,"P_21903, P_39877",2,"Organic Baby Spinach, Organic Granny Smith Apple"
+0.00315,"P_13176, P_21938",2,"Bag of Organic Bananas, Green Bell Pepper"
+0.00315,"P_21137, P_43961",2,"Organic Peeled Whole Baby Carrots, Organic Strawberries"
+0.00313,"P_15290, P_24852",2,"Banana, Orange Bell Pepper"
+0.00312,"P_13176, P_19660",2,"Bag of Organic Bananas, Spring Water"
+0.00311,"P_26209, P_45007",2,"Limes, Organic Zucchini"
+0.0031,"P_45066, P_47626",2,"Honeycrisp Apple, Large Lemon"
+0.0031,"P_16797, P_4920",2,"Seedless Red Grapes, Strawberries"
+0.00309,"P_24852, P_34126",2,"Banana, Organic Italian Parsley Bunch"
+0.00309,"P_24852, P_43352",2,"Banana, Raspberries"
+0.00308,"P_28985, P_47209",2,"Michigan Organic Kale, Organic Hass Avocado"
+0.00308,"P_26209, P_8518",2,"Limes, Organic Red Onion"
+0.00308,"P_24852, P_35951",2,"Banana, Organic Unsweetened Almond Milk"
+0.00308,"P_30489, P_47209",2,"Organic Hass Avocado, Original Hummus"
+0.00308,"P_24852, P_35221",2,"Banana, Lime Sparkling Water"
+0.00306,"P_13176, P_44632",2,"Bag of Organic Bananas, Sparkling Water Grapefruit"
+0.00306,"P_13176, P_34126",2,"Bag of Organic Bananas, Organic Italian Parsley Bunch"
+0.00303,"P_21903, P_37646",2,"Organic Baby Spinach, Organic Gala Apples"
+0.00302,"P_21903, P_21938",2,"Green Bell Pepper, Organic Baby Spinach"
+0.003,"P_31717, P_47766",2,"Organic Avocado, Organic Cilantro"
+0.003,"P_13176, P_27521",2,"Bag of Organic Bananas, Organic Lacinato (Dinosaur) Kale"
+0.003,"P_16797, P_39275",2,"Organic Blueberries, Strawberries"
+0.003,"P_22825, P_24852",2,"Banana, Organic D'Anjou Pears"

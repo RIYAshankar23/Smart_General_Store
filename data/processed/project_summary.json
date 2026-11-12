@@ -1,0 +1,14 @@
+{
+    "total_prior_orders": 3214874,
+    "sampled_orders": 100000,
+    "sampled_product_rows": 1007292,
+    "selected_products": 100,
+    "usable_transactions": 51502,
+    "frequent_itemsets": 371,
+    "association_rules": 295,
+    "minimum_support": 0.003,
+    "minimum_confidence": 0.1,
+    "minimum_lift": 1.0,
+    "maximum_itemset_size": 3,
+    "random_state": 42
+}
